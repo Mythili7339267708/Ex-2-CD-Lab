@@ -1,4 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+## NAME: V MYTHILI
+## REG NO: 212223040123
+## DATE: 15/04/25
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
